@@ -63,8 +63,6 @@ A tool designed for businesses to automate employee shift scheduling based on co
 Built a platform to help match teams based on skill and manage competitive gaming stats.  
 **Technologies**: Laravel, React, MongoDB, AWS, Heroku, Tailwind CSS
 
-For more projects, visit my [Portfolio](https://porfolio-react-92097.web.app).
-
 ---
 
 ## 🏆 Intrests
@@ -86,10 +84,6 @@ For more projects, visit my [Portfolio](https://porfolio-react-92097.web.app).
 - **Email**: kacper.agatowski@gmail.com  
 - **LinkedIn**: [Kacper Agatowski](https://www.linkedin.com/in/kacper-agatowski-342607274/)  
 - **GitHub**: [Kacper Agatowski GitHub](https://github.com/N00212272)
-
----
-
-**Referees available upon request.**
 
 ---
 
