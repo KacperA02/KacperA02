@@ -79,6 +79,7 @@ Built a platform to help match teams based on skill and manage competitive gamin
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KacperA02&theme=react-dark&hide_border=true)
 
 
+
 ---
 
 ## 📫 How to Reach Me
