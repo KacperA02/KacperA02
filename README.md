@@ -35,90 +35,39 @@ I’m currently working on:
 
 ## 🚀 Technologies & Skills
 
-### **Programming Languages**:
-- **JavaScript**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  
-- **Python**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<!-- Programming Languages -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-- **PHP**  
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+<!-- Web Development -->
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-- **SQL/MySQL**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
 
-- **C++**  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/-AWS_RDS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
----
+<!-- Cloud & Networking -->
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CCNP](https://img.shields.io/badge/-CCNP-1D8A9E?style=flat&logo=cisco&logoColor=white)
 
-### **Web Development**:
-- **Frontend (ReactJS)**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-- **React Native**  
-  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-
-- **Tailwind CSS**  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-- **Bootstrap**  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-- **SASS**  
-  ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-
----
-
-### **Backend**:
-- **Node.js**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-- **Express.js**  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
-- **FastAPI**  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-- **Laravel**  
-  ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
-
----
-
-### **Databases**:
-- **MySQL**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-- **MongoDB**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-- **AWS RDS**  
-  ![AWS RDS](https://img.shields.io/badge/-AWS_RDS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-### **Cloud & Networking**:
-- **Amazon Web Services (AWS)**  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-- **Cisco Certified Network Professional (CCNP)**  
-  ![CCNP](https://img.shields.io/badge/-CCNP-1D8A9E?style=flat&logo=cisco&logoColor=white)
-
----
-
-### **Data Visualization**:
-- **Tableau**  
-  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-- **Matplotlib**  
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-
-- **Seaborn**  
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-0086B3?style=flat&logo=seaborn&logoColor=white)
-
-- **R**  
-  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+<!-- Data Visualization -->
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0086B3?style=flat&logo=seaborn&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 
 ---
