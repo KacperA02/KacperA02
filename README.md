@@ -76,8 +76,10 @@ Built a platform to help match teams based on skill and manage competitive gamin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KacperA02&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KacperA02&theme=react-dark&hide_border=true)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
 ---
