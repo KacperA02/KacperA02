@@ -96,7 +96,7 @@ Built a platform to help match teams based on skill and manage competitive gamin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KacperA02&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/kacper-agatowski?label=Follow&style=social)](https://github.com/kacper-agatowski)
+[![Follow me on GitHub](https://img.shields.io/github/followers/KacperA02?label=Follow&style=social)](https://github.com/KacperA02)
 
 
 ---
