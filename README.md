@@ -3,8 +3,7 @@
 Welcome to my GitHub!  
 I'm a **Creative Computing student** passionate about web development and building modern, scalable applications. I’m excited to continue learning, growing, and tackling real-world challenges.
 
-🔗 **Portfolio**: [My Portfolio](https://portfolio-react-92097.web.app/) 
-🔗 **GitHub**: [My GitHub](https://github.com/KacperA02)  
+🔗 **Portfolio**: [My Portfolio](https://portfolio-react-92097.web.app/)  
 🔗 **LinkedIn**: [Kacper Agatowski](https://www.linkedin.com/in/kacper-agatowski-342607274/)  
 📧 **Email**: kacper.agatowski@gmail.com
 
@@ -83,8 +82,6 @@ Built a platform to help match teams based on skill and manage competitive gamin
 
 - **Email**: kacper.agatowski@gmail.com  
 - **LinkedIn**: [Kacper Agatowski](https://www.linkedin.com/in/kacper-agatowski-342607274/)  
-- **GitHub**: [Kacper Agatowski GitHub](https://github.com/N00212272)
-
 ---
 
 ### 📢 Let's Connect!
