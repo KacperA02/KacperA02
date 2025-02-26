@@ -77,7 +77,7 @@ For more projects, visit my [Portfolio](https://porfolio-react-92097.web.app).
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N00212272&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KacperA02&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
 ---
 
