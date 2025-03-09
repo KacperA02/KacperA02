@@ -54,7 +54,7 @@ I’m currently working on:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-EF4135?style=flat&logo=typescript&logoColor=white)
 
 ### **Databases**:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
