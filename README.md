@@ -1,6 +1,6 @@
-# Kacper Agatowski 👋
+# Welcome Coders 👋
 
-Welcome to my GitHub!  
+My name is Kacper Agatowski! Check out some of my stuff  
 I'm a **Creative Computing student** passionate about web development and building modern, scalable applications. I’m excited to continue learning, growing, and tackling real-world challenges.
 
 🔗 **Portfolio**: [My Portfolio](https://portfolio-react-92097.web.app/)  
