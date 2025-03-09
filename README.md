@@ -79,9 +79,10 @@ I’m currently working on:
 A tool designed for businesses to automate employee shift scheduling based on constraints like availability and preferences.  
 **Technologies**: FastAPI, React, MySQL, AWS, Tailwind CSS
 
-### **Competitive Gaming Platform**  
+### **[Clash, Competitve Gaming Platform](https://clash-d9110.web.app/)**  
 Built a platform to help match teams based on skill and manage competitive gaming stats.  
 **Technologies**: Laravel, React, MongoDB, AWS, Heroku, Tailwind CSS
+[Github Repo](https://github.com/xJustinJPD/react-clash)
 
 ---
 
