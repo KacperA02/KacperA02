@@ -26,7 +26,7 @@ I’m currently working on:
 *Final Year Project*: Developed an **automated scheduling app** with **FastAPI**, **React**, and **AWS** to streamline employee shift scheduling.  
 *Third Year Project*: Co-built a **gaming platform** using **Laravel**, **React**, and **MongoDB** to manage competitive gaming matches.
 
-- **Final Year Result**: Predicted 1:1  
+- **Final Year Result**: 1:1  
 - **Third Year**: 1:1  
 - **Second Year**: 2:1  
 - **First Year**: 1:1
