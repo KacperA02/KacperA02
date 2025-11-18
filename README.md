@@ -21,7 +21,7 @@ I’m currently working on:
 
 ## 🎓 Education
 ### **University College Dublin (UCD)** | **09.2025 – 09.2026**
-**MSc in Computer Science (Negotiated Learning) **
+**MSc in Computer Science (Negotiated Learning)**
 Currently undertaking the first semester, stay tuned for classes I took !
 
 ### **Institute of Art, Design, and Technology (IADT)** | **09.2021 – 05.2025**
