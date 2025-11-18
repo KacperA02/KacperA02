@@ -1,7 +1,7 @@
 # Welcome Coders 👋
 
 My name is Kacper Agatowski! Check out some of my stuff  
-I'm a **Creative Computing student** passionate about web development and building modern, scalable applications. I’m excited to continue learning, growing, and tackling real-world challenges.
+I'm persuing a **MSc in Computer Science @UCD**, I am passionate about web development and building modern, scalable applications. I’m excited to continue learning, growing, and tackling real-world challenges.
 
 🔗 **Portfolio**: [My Portfolio](https://portfolio-react-92097.web.app/)  
 🌐 **LinkedIn**: [Kacper Agatowski](https://www.linkedin.com/in/kacper-agatowski-342607274/)  
@@ -20,6 +20,9 @@ I’m currently working on:
 ---
 
 ## 🎓 Education
+### **University College Dublin (UCD)** | **09.2025 – 09.2026**
+**MSc in Computer Science (Negotiated Learning) **
+Currently undertaking the first semester, stay tuned for classes I took !
 
 ### **Institute of Art, Design, and Technology (IADT)** | **09.2021 – 05.2025**
 **BSc (Hons) in Computing**  
