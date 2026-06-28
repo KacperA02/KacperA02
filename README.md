@@ -259,7 +259,7 @@ Remote
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KacperA02&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KacperA02&theme=radical&row=1&column=6)
+![Profile Views](https://komarev.com/ghpvc/?username=KacperA02&style=flat-square)
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/KacperA02?label=Follow&style=social)](https://github.com/KacperA02)
 
