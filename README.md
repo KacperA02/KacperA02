@@ -251,9 +251,15 @@ Remote
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KacperA02&show_icons=true&theme=radical&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperA02&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KacperA02&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KacperA02&theme=radical&row=1&column=6)
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/KacperA02?label=Follow&style=social)](https://github.com/KacperA02)
 
